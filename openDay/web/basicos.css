@@ -1,0 +1,27 @@
+body{
+    background-color: cyan;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: green;
+    width: 100%;
+}
+
+article {
+    width: 100%;
+    display: flex;
+   justify-content:center ;
+}
+
+img { 
+    width: 200px; height: 200px;
+    margin: 0.5%;
+}
+
